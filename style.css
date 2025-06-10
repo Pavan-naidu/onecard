@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+    border: "border box";
+}
+.navbar{
+    height: 80px;
+    width: 100%;
+    color: #2c2c2c;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+}
+
+.container{
+    width: 72%;
+    height: 80px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.logo{
+    background-image: url(onecard_logo.png);
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+}
+.nav_items li{
+    display: inline;
+    
+}
+
+.nav_items li a {
+    text-decoration: none;
+    color: #0c161b;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 1rem;
+    
+}
+.container2{
+    display: flex;
+    width: 79%;
+    justify-content:flex-end; 
+    font-weight:;
+}
+
+button{
+    height: 30px;
+    width:55%;
+    background-color: #1893f7;
+    margin: 0px 55.5px 0px 16px;
+    padding: 4px 8px;
+    font-size: 14px;
+    color: white;
+    border: none;
+    border-radius: 8%;
+    
+}
+
+/* hero section starts */
+
+video{
+    height: 510px;
+    width: 510px;
+    padding: 0px 15px;
+    /* border: #0c161b solid 2px; */
+    
+}
+
+.hero_section{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    
+}
+
+.leftintro{
+    width: 540px;
+    height: 464.25px;
+    color: #2c2c2c;
+    font-size: 16px;
+    padding: 0px 15px;
+    /* border: #0c161b solid 2px; */
+
+}
+
+.introduction{
+    height: 111.74;
+    
+}
+
+.greetings{
+    font-size: 28.8px;
+    font-weight: 700;
+    text-align: left;
+}
+.onecreditcard{
+    font-size: 57.6px;
+    color: #1893F7;
+    font-weight: 550;
+    text-align: left;
+}
+.banking{
+    height: 61px;
+    padding: 8px 0px;
+    color: #1892f7;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+.bankimage img{
+    width: 355px;
+    height: 65.97px;
+}
+
+.text{
+    padding-top: 24px;
+    color: #2c2c2c;
+    font-size: 18px;
+    height: 510px;
+
+}
+
+.button2{
+    width: 175px;
+    height: 40px;
+    background-color: #0093f7;
+    border-radius: 8%;
+    display: flex;
+    margin-bottom:20px ;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button2 a{
+    height: 24.8px;
+    width:86.44px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    border-radius: 8%;
+    
+    
+
+}
