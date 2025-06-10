@@ -129,7 +129,7 @@ video{
     padding-top: 24px;
     color: #2c2c2c;
     font-size: 18px;
-    height: 510px;
+    height: 100px;
 
 }
 
@@ -154,7 +154,10 @@ video{
     color: white;
     text-decoration: none;
     border-radius: 8%;
-    
-    
+}
 
+.badgecontainer a{
+    padding-left: 15px;
+    color: #0c161b;
+    font-size: 30px;
 }
